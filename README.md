@@ -9,7 +9,7 @@ This is my fork of suckless' window manager. I have patched and added pieces of 
 - A specific polybar fork called polybar-dwm-module which you can find [here](https://github.com/mihirlad55/polybar-dwm-module) (don't forget to install that correctly with all its dependencies)
 - The Xlib header files
 
-On the installation guide of the polybar module you don't have to apply any patches as I have already done that
+On the installation guide of the polybar dwm module you don't have to apply any patches as I have already done that
 
 ### Install
 
